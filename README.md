@@ -6,6 +6,9 @@
 
 To advocate for legislation across the European Union requiring manufacturers to provide local APIs for smart home devices, ensure open-source firmware release upon the discontinuation of support, and promote user control and device longevity
 
+
+- [The petiton](./PETITION.md)
+
 ##### The Citizens' committee:
 
 | Position | Legal Name          | Country         | Github name | Joined     |
