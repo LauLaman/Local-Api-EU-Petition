@@ -16,7 +16,7 @@ Smart home devices often lack accessible local APIs, restricting user control. D
 
 3. **No exclusivity** Manufacturers should NOT only make certain features available on cloud services. All features should be available on the local API.
 
-4. **Open-source Firmware Post-Support** In the event of discontinued support, manufacturers must release the firmware as open source, allowing the open-source community to continue development.
+4. **Open-source Firmware Post-Support** In the event of discontinued support, manufacturers must release the firmware as open source, allowing the open-source community to continue development. This also applies in case of liquidation and has priority over creditors' rights.
 
 These measures will not only enhance individual control but also ensure the continuity of smart home devices, even under adverse conditions like business insolvency or discontinued support.
 
