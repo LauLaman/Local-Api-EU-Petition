@@ -19,7 +19,7 @@ To advocate for legislation across the European Union requiring manufacturers to
 
 | Position | Legal Name          | Country         | Github name | Joined     |
 |----------|---------------------|-----------------|-------------|------------|
-| Chairman | Laurens Aäron Laman | The Netherlands | @LauLaman   | 2024-01-29 |
+| Chairman | Laurens Aäron Laman | The Netherlands | @LauLaman   | 2024-01-19 |
 |          |                     |                 |             |            |
 |          |                     |                 |             |            |
 
